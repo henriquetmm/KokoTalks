@@ -1,2 +1,2 @@
-# KokoTalks
-KokoTalks - .NET chat app
+# KokoTalk
+PROG37721 Group Project
